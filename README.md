@@ -79,13 +79,7 @@ The **Smart Contact Manager** is a robust full-stack web application designed to
 - **Additional OAuth Providers**: Support for more OAuth providers like Facebook, LinkedIn, etc.
 - **User Roles & Permissions**: Implement role-based access control for better management.
 
-## About the Developer
-This application was developed by **Ishan Berry**, a passionate Java backend developer with a keen interest in creating efficient and user-friendly applications. For more projects and tutorials, check out my portfolio and YouTube channel:
-
-- **Portfolio**: [Ishan's Portfolio](https://ishandevportfolio.vercel.app)
-- **YouTube Channel**: [Coding with Ishan](https://www.youtube.com/channel/UCxyz)
-
 ## Contact
-**Ishan Berry**  
-[LinkedIn](https://www.linkedin.com/in/ishan-berry) | [GitHub](https://github.com/ishanberry87/smart-contact-manager) | Email: ishanberry87@gmail.com
+**Madhav Solanki**  
+ Email: madhav09solanki@gmail.com
 
